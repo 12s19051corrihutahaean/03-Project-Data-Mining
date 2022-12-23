@@ -1,0 +1,2 @@
+KELOMPOK_3_Binary Clasification use SVM
+https://youtu.be/cnMyQjQwLjc
